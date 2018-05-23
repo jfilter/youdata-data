@@ -1,0 +1,70 @@
+id,name,street,pcode,city,email,url,contact_url,phone,comment,state,created_at,updated_at,mailing_mode,cached_tag_list,slug,approved_at,inquiry_kind,department,objection_kind,gv_numer,gv_number,tag_ids
+7,accumio finance service GmbH,Kabelkamp 1a,30179,Hannover,,http://www.saf-solutions.de,,,"firmierte bis 31.12.2006 als SolvenTec GmbH
+
+10.04.2012 Webadresse und E-Mail-Adresse aktualisiert
+24.10.2012: Telefon, Telefax, und URL lt. Mail v. 30.09.2012 aktualisiert
+03.03.2015: Unternehmensstand derzeit unbekannt, Webinhalte nicht erreichbar; daher vorl. deaktiviert",blocked,2010-04-08T18:01:10.000+02:00,2017-11-29T14:34:25.189+01:00,,Auskunfteien,,2010-04-08T18:01:10.000+02:00,bdsg34,,,,,[1]
+4,Bürgel Wirtschaftsinformationen GmbH & Co. KG,Gasstraße 18,22761,Hamburg,info@buergel.de,,,040898030,"15.05.18 Umfirmiert, oder übernommen zu ""CRIF Bürgel GmbH""",blocked,2010-04-08T16:20:05.000+02:00,2018-05-15T10:00:53.656+02:00,,Auskunfteien,,2010-04-08T16:20:05.000+02:00,bdsg34,,,,,[1]
+2,Creditreform Boniversum GmbH,Hellersbergstraße 11,41460,Neuss,selbstauskunft@boniversum.de,http://www.boniversum.de/,http://www.boniversum.de/kontakt/,02131109501,,approved,2010-04-08T16:20:05.000+02:00,2018-05-15T10:43:54.928+02:00,fax,Auskunfteien,creditreform,2010-04-08T16:20:05.000+02:00,bdsg34,,,,,[1]
+3578,CRIF Bürgel GmbH,Kaiserstraße 217,76133,Karlsruhe,datenschutz.de@crif.com,https://www.crifbuergel.de,https://www.crifbuergel.de/de/kontakt/selbstauskunft,040898030,Identitäts- oder Bonitätsinformationen,approved,2018-04-02T02:03:54.936+02:00,2018-05-15T10:01:06.991+02:00,fax,Auskunfteien,buergel,2018-05-15T10:00:43.664+02:00,bdsg34,Abteilung Datenschutz,,,,[1]
+1077,CS Connect GmbH & Co. KG,Alte Schmelze 11,65201,Wiesbaden,info@cs-connect.de,https://www.cs-connect.de/impressum.html,https://www.cs-connect.de/ueber-uns/datenuebersicht/datenuebersicht.html,061153269470,Schufa verwendet laut Auskunft Daten der CS Connect und empfiehlt dort ebenfalls anzufragen.,approved,2013-08-15T14:50:44.000+02:00,2018-05-15T10:55:00.310+02:00,fax,Auskunfteien,cs,2018-05-15T10:55:00.308+02:00,bdsg34,,,,,[1]
+56,databyte GmbH,Seelandstr. 14-16,23569,Lübeck,kontakt@databyte.de,http://www.databyte.de/,http://www.databyte.de/kontakt_impressum.html,0451307740,"""Basis für die Auskünfte sind Daten aus öffentlichen Verzeichnissen, Informationen von Inkassounternehmen und Wirtschaftsauskunfteien sowie eigenen Recherchen. [...] Prüfen Sie sofort über das Internet die Bonität von Privatkunden.""
+http://www.databyte.de/portfolio_online-module_bonitaetsauskunft.html
+
+19.01.2012: Haben laut eigenen Angaben keine Datenbank über Privatpersonen, daher deaktiviert",blocked,2010-04-16T05:16:16.000+02:00,2012-02-22T17:13:12.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+89,datagate GmbH,Fraunhoferstraße 12a,82152,Martinsried bei München,customer.care@telegate.de,http://www.telegate.de/,http://www.onetoone.de/businessguide/datagate-GmbH-telegate-Data-Management-Services.html,039556099569,"Wir verfügen über 3 Mio. Firmenadressen und 37 Mio. Privatadressen. [...] Mailingspezialisten kaufen Firmenadressen bei uns zu und große Adressverlage reichern Ihre Bestände mit den tagesaktuellen Telefon- und Faxnummern an.
+
+23.01.2012: Hat nach eigenen Auskünften keine Datenbank mit personenbezogenen Daten, es werden nur Datenverarbeitungen im Auftrag der Muttergesellschaft durchgeführt, die allerdings nicht personenbezogen sind. Daher erstmal deaktiviert.",blocked,2010-06-23T12:33:39.000+02:00,2012-02-22T17:13:13.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+5,Deltavista GmbH,Kaiserstraße 217,76133,Karlsruhe,datenschutz-de@deltavista.com,"https://www.deltavista.com/content/view/39/76/lang,ge/","https://www.deltavista.com/content/view/59/103/lang,ge/",072148699950,"Info vom 16. April 2010: ""Aufgrund der Vielzahl an Anfragen durch die Gesetzesnovelle zur Selbstauskunft dauert die Bearbeitung Ihrer Anfrage aktuell ca. 4 Wochen. Wir bitten Sie um Ihr Verständnis!""
+
+2010-04-27: Ausweiskopie benötigt
+
+01.03.2013: lt. Mail d. Datenschutzbeauftragten Telefonnummer aktualisiert
+15.05.18: Domain offline",blocked,2010-04-08T16:20:05.000+02:00,2018-05-15T09:50:05.373+02:00,,Auskunfteien,,2010-04-08T16:20:05.000+02:00,bdsg34,,,,,[1]
+71,Detektei Sindermann,Lanker Straße 28b,13125,Berlin,,http://www.auskunftei-genossenschaft.de/,http://www.auskunftei-genossenschaft.de/home/impressum.html,03094632450,"""allgemeine Geschäftsauskünfte mit Kreditwürdigkeitsbeurteilung, Anschriften- und Arbeitsstellenermittlungen, Kreditwürdigkeitsprüfungen, Leumunds- und Handelsauskünfte""
+http://www.auskunftei-genossenschaft.de/home/auskunftei.htm
+
+29.04.2010: Aus der Liste entfernt, da er höchstwahrscheinlich keine eigene Datenbank betreibt.",blocked,2010-04-29T17:43:04.000+02:00,2012-02-22T17:13:13.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+59,easycash GmbH,Am Gierath 20,40885,Ratingen,info@easycash.de,http://www.easycash.de/,http://www.easycash.de/impressum.html,021029730,"""Die Händlerweisungsdatei [...] ist mit über 2,7 Millionen Einträgen Deutschlands umfangreichste und aussagekräftigste Sperrdatei. [...] Über die HWD® können zusätzliche bonitätsschwache Käufer identifiziert werden.""
+
+http://www.easycash.de/hwd.html
+
+26.04.2010: Perso-Kennzeichen hinzugefügt
+26.04.2010: EasyCash speichert Bonitäts-Informationen zusammen mit der Bankverbindung. Eine Auskunft ist daher nur möglich, wenn man die eigene Bankverbindung nachweist.",blocked,2010-04-17T12:43:01.000+02:00,2012-02-22T17:13:12.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+94,easycash Loyalty Solutions GmbH,Hugh-Greene-Weg 2,22529,Hamburg,info@easycash.de,http://www.easycash-loyaltysolutions.de/,http://www.easycash-loyaltysolutions.de/ls_impressum_datenschutz.html,04073440401,"siehe http://www.heise.de/newsticker/meldung/Bericht-Easycash-verkauft-Bewegungsprofile-von-EC-Kartenkunden-1107760.html
+
+19.05.2015:
+umfirmiert zu: ""Ingenico Payment Services GmbH""",blocked,2010-10-14T04:04:36.000+02:00,2015-05-19T09:24:16.000+02:00,,Auskunfteien,,2010-10-14T04:04:36.000+02:00,bdsg34,,,,,[1]
+125,easyscore24.de e.K. ,Haddorfer Berg 2b,21683,Stade,info@easyscore24.de,http://www.easyscore24.de/,http://www.easyscore24.de/schuldnerservice.html,0180377708810,"19.01.2012 Faxzustellung unterbrochen - wer kennt eine gültige Faxnummer?
+
+15.02.2012 Der Betreiber hat uns mitgeteilt, dass der Betrieb der Auskunftei eingestellt wurde. Die Webseite wurde abgeschaltet und wir haben die noch nicht zugestellten Anfragen gelöscht.",blocked,2011-07-05T14:59:19.000+02:00,2012-02-23T15:13:36.000+01:00,,Empfohlen,easyscore24,,bdsg34,,,,,[1]
+8,EOS Information Service GmbH,Gottlieb-Daimler-Ring 7-9,74906,Bad Rappenau,info@eos-information.com,http://www.eos-information.com/,http://www.eos-information.com/unternehmen/kontakt/impressum/,04028501926,"""Die EOS MarketBase ist eine in Deutschland einzigartige und marktumfassende Haushaltsdatenbank mit Informationen zu rund 50 Millionen Privatadressen. Zu jeder Adresse finden Sie bis zu 300 Zusatzmerkmale zum Konsumverhalten, zur Wohn- und Lebenssituation und zur Soziodemografie. Die Adressen dieser Haushaltsdatenbank werden regelmäßig gepflegt und sind dadurch stets aktuell.""
+http://www.eos-information.com/de/dialogmarketing/print/eos-marketbase/
+
+28.02.2012 Unternehmen deaktiviert; siehe: http://blog.selbstauskunft.net/2012/02/eos-keine-privatpersonen/",blocked,2010-04-08T18:03:25.000+02:00,2012-02-28T10:40:00.000+01:00,,Empfohlen,,2010-04-08T18:03:25.000+02:00,bdsg34,,,,,[1]
+38,Experian Deutschland GmbH,Zirkusweg 2 / Astra Turm,20359,Hamburg,info@experian.de,http://www.experian-da.com/,http://www.experian-da.com/de/legal.html,0408995000,,blocked,2010-04-14T22:45:35.000+02:00,2012-02-22T17:13:12.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+6,Gesamtverband der Deutschen Versicherungswirtschaft,Wilhelmstraße 43 / 43 G,10117,Berlin,,,,08003399399,"""Betreibt die Datenbank ""UNIWAGNIS"", mit denen Versicherungen umfangreiche Daten von Millionen von Bürgerinnen und Bürgern austauschen.""
+
+01.07.2011: Die Datenbank wird seit dem 1. April von der informa Insurance Risk and Fraud Prevention GmbH, einem Tochterunternehmen der Arvato AG betrieben.",blocked,2010-04-08T16:20:05.000+02:00,2012-02-22T17:13:10.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+36,IHD Service GmbH,Augustinusstraße 11B,50226,Frechen,verein@ihd.de,http://www.ihd.de/,http://www.ihd.de/seiten/impressum.html,02234963170,"28.04.2010: Als Auskunftei eingestuft.
+Bietet an, Kundenadressen für eine ""Automatische Debitorenüberwachung"" in die IHD-Datenbank zu übertragen. Neben einer ""InFoScore Privatauskunft"" gibt es auch eine ""IHD Privatauskunft"".
+http://www.ihd.de/seiten/service.html
+
+30.06.2011: Fax-Nummer aktualisiert",approved,2010-04-14T22:37:14.000+02:00,2013-05-27T15:16:49.000+02:00,fax,"Auskunfteien, Inkasso",,2010-04-14T22:37:14.000+02:00,bdsg34,,,,,"[7, 1]"
+1194,infoscore Consumer Data GmbH,Rheinstraße 99,76532,Baden-Baden,,http://www.arvato-infoscore.de/verbraucher/selbstauskunft/,https://finance.arvato.com/de/verbraucher/selbstauskunft/infoscore-consumer-data-gmbh.html,052415276000,,approved,2014-02-01T17:25:14.000+01:00,2018-02-08T15:14:32.056+01:00,fax,Auskunfteien,,2016-08-31T15:49:44.000+02:00,bdsg34,Abteilung Datenschutz,,,,[1]
+184,SAZ Marketing GmbH,Gutenbergstraße 1-5,30823,Garbsen,,http://www.saz.com/de/index.html,http://www.saz.com/de/region/europe/germany.html,,"Ein Nutzer hat uns hierzu geschrieben: ""Ich kenne das Unternehmen und weiß, dass es nicht nur mit Adressen handelt, sonder auch erfasst und sammelt. Auch deren Homepage macht keinen Hehl daraus.""
+
+„Die SAZ Haushaltsdatenbanken beinhalten bis zu 220 Einzelinformationen pro Adresse und können z.B. für die Erstellung von Kundenprofilen oder die Selektion von Adresslisten genutzt werden.“
+http://www.saz.com/de/target-groups-and-information/target-groups-information.html
+http://www.saz.com/de/target-groups-and-information/household-databases.html
+Der Sitz ist u.a. in der Schweiz. Es gibt aber auch undurchsichtige Töchterunternehmen in Deutschland http://www.saz.com/de/region/europe/germany.html die vermutlich aber auch alle Zugriff auf die Daten haben.
+
+10.03.2012 Deaktiviert, da keine Daten in Deutschland vorhanden sind",blocked,2012-02-17T14:12:19.000+01:00,2012-03-10T12:15:12.000+01:00,,"Adresshändler, Empfohlen",saz-marketing,2012-02-17T14:12:19.000+01:00,bdsg34,,,,,"[1, 5]"
+1,SCHUFA Holding AG,Postfach 10 25 66,44721,Bochum,kontakt@schufa.de,https://www.meineschufa.de/,https://www.meineschufa.de/index.php?site=impressum,061192780,,approved,2010-04-08T16:20:05.000+02:00,2015-12-07T09:27:15.000+01:00,fax,Auskunfteien,schufa,2010-04-08T16:20:05.000+02:00,bdsg34,,,,,[1]
+85,Supercheck GmbH,Sülzburgstrasse 218,50937,Köln,,,,,"""Wir bieten Ihnen über unsere Adressdatenbanken rund 37 Millionen Adressen an. Damit wird im Rahmen der Zielgruppenanalyse fast der komplette Markt an privaten Haushalten abgedeckt.""
+http://www.datencheck.de/firmenadressen/adressen-fuer-mailing.html
+
+26.08.2011: wieder in die Datenbank aufgenommen",blocked,2010-05-20T15:30:38.000+02:00,2012-02-22T17:13:13.000+01:00,,Empfohlen,,,bdsg34,,,,,[1]
+61,UNIVERSUM Business GmbH (ehem. Producta Daten-Service GmbH),Hanauer Landstraße 164,60314,Frankfurt am Main,info@universum-group.de,https://www.universum-group.de,https://www.universum-group.de/impressum/,06942091325,"11.02.2013: Adresse aktualisiert
+07.12.2015: hat lt.: http://www.universum-group.de/news-media/presse-media/universum-group-passt-die-firmierungen-an/ umfirmiert
+23.02.18: Adresse aktualisiert",approved,2010-04-22T11:45:34.000+02:00,2018-02-23T14:58:43.634+01:00,fax,Auskunfteien,producta,2010-04-22T11:45:34.000+02:00,bdsg34,,,,,[1]

@@ -1,0 +1,26 @@
+id,name,street,pcode,city,email,url,contact_url,phone,comment,state,created_at,updated_at,mailing_mode,cached_tag_list,slug,approved_at,inquiry_kind,department,objection_kind,gv_numer,gv_number,tag_ids
+68,ARD ZDF Deutschlandradio Beitragsservice,Freimersdorfer Weg 6,50656,Köln,datenschutz@beitragsservice.de,,http://ardzdf.de/aufgaben/datenschutz/index_ger.html,022150612632,"Bis Ende 2012: ""Gebühreneinzugszentrale (GEZ)""",approved,2010-04-27T01:48:41.000+02:00,2018-03-19T03:07:26.721+01:00,fax,Sonstige,beitragsservice,2010-04-27T01:48:41.000+02:00,bdsg34,,,,,[6]
+994,Glöckle direct GmbH,Daimlerstraße 86,70372,Stuttgart,info@gloeckle-direct.de,http://www.gloeckle-direct.de/,http://www.gloeckle-direct.de/index.php?id=12,071195410,"Fragt unter anderem Daten von Schober Information Group ab.
+
+(09.04.2014): deaktiviert aufgrund des folgenden Statements:
+""... wie telefonisch mit unserem betrieblichen Datenschutzbeauftragten besprochen, bestätigen wir Ihnen gerne, dass wir kein Adresshändler sind. Weder handeln wir mit personenbezogenen Daten noch geben wir die uns vorliegenden Daten gegen Entgelt an Dritte weiter. """,blocked,2013-05-31T16:35:04.000+02:00,2014-04-09T11:54:47.000+02:00,,Sonstige,gloeckle-direct,2013-05-31T16:35:27.000+02:00,bdsg34,,,,,[6]
+106,informa HIS GmbH,Kreuzberger Ring 68,65205,Wiesbaden,his@informa.de,http://www.informa-irfp.de/de/index.html,http://www.informa-irfp.de/de/service/kontakt.html,061188087088,"lt. Infoseite zur Selbstauskunft  http://www.informa-irfp.de/de/onlineservice/selbstbeauskunftung/index.html  
+..sind Auskunftsersuchen postalisch an IRFP zu richten, 
+KEINE Auskunft aufgrund Email-Anfrage.
+informa-IRFP soll das ""HIS"" (Hinweis- und Informationssystem) zum 01.04.2011 vom ""GDV"" (""Gesamtverband der Deutschen Versicherungswirtschaft"", Berlin) übernommen haben -
+korrekte postalische Anschrift:
+informa Insurance Risk and Fraud Pervention GmbH
+Abteilung Datenschutz
+Rheinstraße 99
+76532 Baden-Baden
+www.informa-irfp.de
+(bei Anfragen sei Ausweiskopie unbedingt erforderlich)
+
+13.02.2012: Unternehmen in die Kategorie Sonstige verschoben, da die Trefferquote für Auskünfte mit gespeicherten Daten im unteren Promillbereich liegt.
+
+Betroffene werden bei Eintragung in die Datenbank direkt vom Versicherungsunternehmen informiert: http://www.informa-irfp.de/his-online/was-ist-neu/
+
+04.08.2016: Firmierung angepasst; ehem. ""informa Insurance Risk and Fraud Prevention GmbH"" lt. eMail umfirmiert",approved,2011-04-09T10:42:57.000+02:00,2016-08-04T14:42:49.000+02:00,fax,Sonstige,informa,2011-04-09T10:42:57.000+02:00,bdsg34,,,,,[6]
+72,QUADRESS GmbH,Josef-Haumann-Str. 7a,44866,Bochum,wilkens@quadress.de,http://quadress.de/,http://quadress.de/info/impressum,0232730380,"In der QUADRESS; B2C-Datenbank finden sich über 32 Mio. deutsche Privathaushalte. QUADRESS kann über die Kombination aussagekräftiger statistischer Merkmale, z.B. Wohnlage und Wohnumfeld, statistische Kaufkraft , durchschnittliches Alter, etc. die relevanten Zielgruppen ermitteln.
+
+20.06.2014: Unternehmen verfügt über keine eigenen Datenbestände und agiert im B2C-Bereich nur noch als Listbroker.",blocked,2010-04-29T20:22:16.000+02:00,2014-08-06T12:34:44.000+02:00,,Sonstige,,2010-04-29T20:22:16.000+02:00,bdsg34,,,,,[6]
